@@ -7,7 +7,7 @@
 - 👯 I live in France.
 - 👤 I strive to be a better development every day.
 
-<h2> My projects ⚜️ </h2>
+<h3> My projects ⚜️ </h3>
 
 - 🔒 OneLife (Fivem Server).
 - 🖇 Public script for Fivem.
@@ -23,6 +23,3 @@
 
   
 </details>
-
-<!--
-**Skafir/Skafir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
