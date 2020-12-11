@@ -7,5 +7,8 @@
 - 👯 I live in France.
 - 👤 I strive to be a better development every day.
 
+
+[![Skafir Github Stats](https://github-readme-stats.vercel.app/api?username=skafir&show_icons=true)](https://github.com/Skafir)
+
 <!--
 **Skafir/Skafir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
