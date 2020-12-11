@@ -1,9 +1,9 @@
 ### Hi everyone, I'm Skafir 🐺 
 
-### Me 📍
+### About Me 🎭
 
 - 🏆 I want to be a fullstack or web developper.
-- 💻 I am a student in development
+- 💻 I am a student in development.
 - 👯 I live in France.
 - 👤 I strive to be a better development every day.
 
