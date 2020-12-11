@@ -8,7 +8,16 @@
 - 👤 I strive to be a better development every day.
 
 
+
+<details> 
+  <summary> 📃 My GitHub Stats </summary>
+
+  <br />
+
 [![Skafir Github Stats](https://github-readme-stats.vercel.app/api?username=skafir&show_icons=true)](https://github.com/Skafir)
+
+  
+</details>
 
 <!--
 **Skafir/Skafir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
