@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Skafir 🐺 
 
-<h2> About Me 🎭 </h2>
+<h2> About Me 🎓 </h2>
 
 - 🏆 I want to be a fullstack or web developper.
 - 💻 I am a student in development.
