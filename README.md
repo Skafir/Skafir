@@ -7,7 +7,12 @@
 - 👯 I live in France.
 - 👤 I strive to be a better development every day.
 
+<h3> My projects ⚜️ </h3>
 
+- 🔒 OneLife (Fivem Server).
+- 🖇 Public script for Fivem.
+- 🌐 Web site.
+- ⚙ Discord bot (on discord.js).
 
 <details> 
   <summary> 📃 My little GitHub Stats </summary>
