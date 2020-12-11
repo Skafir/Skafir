@@ -10,7 +10,7 @@
 
 
 <details> 
-  <summary> 📃 My GitHub Stats </summary>
+  <summary> 📃 My little GitHub Stats </summary>
 
   <br />
 
