@@ -2,7 +2,7 @@
 
 <h2> About Me 🎓 </h2>
 
-- 🏆 I want to be a fullstack or web developper.
+- 🏆 I want to be a fullstack or game developper.
 - 💻 I am a student in development.
 - 👯 I live in France.
 
