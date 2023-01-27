@@ -12,6 +12,14 @@
 - 🌐 Web site.
 - ⚙ Discord bot (on discord.js).
 
+<h4> My programming languages 👨🏻‍💻 </h4>
+
+- JS (ReactJS, Expo)
+- Lua 
+- HTML/CSS
+- C/C++
+- Python
+
 <details> 
   <summary> 📃 My little GitHub Stats </summary>
 
