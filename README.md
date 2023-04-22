@@ -14,9 +14,9 @@
 
 <h4> My programming languages 👨🏻‍💻 </h4>
 
-- JS (ReactJS, Expo)
+- JS (ReactJS, Expo, NextJS)
 - Lua 
-- HTML/CSS
+- HTML/CSS(Tailwind)
 - C/C++
 - Python
 
