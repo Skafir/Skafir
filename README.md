@@ -10,7 +10,7 @@
 
 - 🖇 Public and private script for Fivem.
 - 🌐 Web site.
-- ⚙ Discord bot (on discord.js).
+- ⚙ App with React and Expo.
 
 <h4> My programming languages 👨🏻‍💻 </h4>
 
