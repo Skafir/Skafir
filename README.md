@@ -8,13 +8,14 @@
 
 <h3> My projects ⚜️ </h3>
 
-- 🖇 Public and private script for Fivem.
+- 🖇 Interface with React.
 - 🌐 Web site.
-- ⚙ App with React and Expo.
+- ⚙ App with Expo.
 
 <h4> My programming languages 👨🏻‍💻 </h4>
 
 - JS (ReactJS, Expo, NextJS)
+- TypeScript
 - Lua 
 - HTML/CSS (Tailwind)
 - C/C++
