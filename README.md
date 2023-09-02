@@ -17,6 +17,7 @@
 - JS (ReactJS, Expo, NextJS)
 - TypeScript
 - Lua 
-- HTML/CSS (Tailwind)
-- C/C++
-- Python
+- HTML/CSS
+- C
+- Shell
+- SQL
