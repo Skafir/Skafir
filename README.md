@@ -18,5 +18,5 @@
 - TypeScript
 - Lua 
 - C
-- Angular
 - SQL
+- (React, Angular)
