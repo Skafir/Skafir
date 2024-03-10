@@ -19,4 +19,5 @@
 - Lua 
 - C
 - SQL
-- (React, Angular)
+- Node
+- (React, Angular, Vue)
