@@ -2,7 +2,7 @@
 
 <h2> About Me 🎓 </h2>
 
-- 💻 I'm web developper/designer.
+- 💻 I'm web developper/designer & Student at 42 Paris.
 - 👯 I live in France.
 
 <h3> My projects ⚜️ </h3>
