@@ -4,6 +4,7 @@
 
 - 💻 I'm web developper/designer & Student at 42 Paris.
 - 👑 I'm the owner of Var FiveM
+- 🌐 I'm owner of Var Studio
 - 👯 I live in France.
 
 <h3> My projects ⚜️ </h3>
